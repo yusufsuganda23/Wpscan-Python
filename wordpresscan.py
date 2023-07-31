@@ -21,6 +21,7 @@ if __name__ == "__main__":
     print("                       | |                                      ")
     print("                       |_|                                      ")
     print(" WordPress scanner based on wpscan work - @pentest_swissky      ")
+    print(" Updated by Yusuf Shoofi Suganda and Ade Tricahya Surjadi       ")
     print("_______________________________________________________________ ")
 
     parser = argparse.ArgumentParser()
